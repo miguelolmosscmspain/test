@@ -2,5 +2,5 @@
 
 die;
 die;
-
+die;
 ?>
